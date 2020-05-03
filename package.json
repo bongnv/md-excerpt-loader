@@ -27,5 +27,8 @@
   },
   "devDependencies": {
     "semantic-release": "^17.0.7"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0"
   }
 }
