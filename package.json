@@ -1,9 +1,10 @@
 {
   "name": "@bongnv/md-excerpt-loader",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "description": "A webpack loader to generate exceprt from parsed markdown files",
   "main": "index.js",
   "scripts": {
+    "release": "semantic-release",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
