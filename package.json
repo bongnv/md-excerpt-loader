@@ -22,6 +22,9 @@
     "url": "https://github.com/bongnv/md-excerpt-loader/issues"
   },
   "homepage": "https://github.com/bongnv/md-excerpt-loader#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "semantic-release": "^17.0.7"
   }
